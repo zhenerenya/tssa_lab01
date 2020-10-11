@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tssa_lab01.dir/main.cpp.o  -o tssa_lab01 
